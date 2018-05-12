@@ -49,6 +49,8 @@ creator:
     gutenberg_agent_id: '32596'
     url: http://www.gutenberg.org/2009/agents/32596
 description: Preceded by vol IV PG#17704
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17705#The-Tales-Of-The-Heptameron-Vol.-V.--of-V.-
 gutenberg_issued: '2006-02-07'
 gutenberg_type: Text
 identifiers:
