@@ -1,0 +1,66 @@
+_repo: The-Tales-Of-The-Heptameron-Vol.-V.--of-V.-_17705
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Le Roux de Lincy
+    aliases:
+    - Roux de Lincy, Le
+    - De Lincy, Le Roux
+    - Le Roux de Lincy, Antoine Jean Victor
+    - Lincy, Le Roux de
+    birthdate: 1806
+    deathdate: 1869
+    gutenberg_agent_id: '33569'
+    url: http://www.gutenberg.org/2009/agents/33569
+  illustrators:
+  - agent_name: Freudenberger, Sigmund
+    aliases:
+    - Freudeberg, S. (Sigmund)
+    - Freudenberg, S. (Sigmund)
+    birthdate: 1745
+    deathdate: 1801
+    gutenberg_agent_id: '7555'
+    url: http://www.gutenberg.org/2009/agents/7555
+  - agent_name: Dunker, Balthasar Anton
+    alias: Duncker
+    birthdate: 1746
+    deathdate: 1807
+    gutenberg_agent_id: '7556'
+    url: http://www.gutenberg.org/2009/agents/7556
+  translator:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+covers:
+- cover_type: archival
+  image_path: 17705-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marguerite, Queen, consort of Henry II, King of Navarre
+    aliases:
+    - Navarre, Marguerite de
+    - Margaret, Queen of Navarre
+    birthdate: 1492
+    deathdate: 1549
+    gutenberg_agent_id: '32596'
+    url: http://www.gutenberg.org/2009/agents/32596
+description: Preceded by vol IV PG#17704
+gutenberg_issued: '2006-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17705'
+language: en
+publication_note: 'London :  The Society of English Bibliophilists,  1894'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories, French -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Tales -- France -- Translations into English'
+title: The Tales of the Heptameron, Vol. 5 (of 5)
+url: http://www.gutenberg.org/ebooks/17705
